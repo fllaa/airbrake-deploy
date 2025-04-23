@@ -1,5 +1,5 @@
 # action.yml
-name: "Airbrake Deploy"
+name: "Track Airbrake Deploy"
 description: "Create a Deploy for an Airbrake Project"
 branding:
   icon: anchor
